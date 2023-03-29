@@ -18,3 +18,4 @@ Here are some ideas to get you started:
 -->
 
   - [unzip](https://github.com/imjliang/unzip/tree/master): extract files.
+  - [sync](https://github.com/imjliang/sync): sync files between two local folders.
