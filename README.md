@@ -17,5 +17,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+  - [Miscellaneous](https://github.com/jinjin-liang/Miscellaneous): some miscellaneous docs.
   - [unzip](https://github.com/imjliang/unzip/tree/master): extract files.
   - [sync](https://github.com/imjliang/sync): sync files between two local folders.
