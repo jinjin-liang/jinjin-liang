@@ -1,6 +1,6 @@
 ### Welcome 👋
 
-Below I lised some materials I collected.
+Below I lised some materials I collected from the web.
 
 <!--
 **imjliang/imjliang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
