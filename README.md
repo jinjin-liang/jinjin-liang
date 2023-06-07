@@ -1,6 +1,6 @@
 ### Welcome 👋
 
-Below I lised some useful tools I collected.
+Below I lised some materials I collected.
 
 <!--
 **imjliang/imjliang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,3 +20,4 @@ Here are some ideas to get you started:
   - [Miscellaneous](https://github.com/jinjin-liang/Miscellaneous): some miscellaneous docs.
   - [unzip](https://github.com/imjliang/unzip/tree/master): extract files.
   - [sync](https://github.com/imjliang/sync): sync files between two local folders.
+  - [Data-Science](https://github.com/jinjin-liang/Data-Science): DS/ML basics.
