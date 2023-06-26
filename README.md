@@ -21,3 +21,4 @@ Here are some ideas to get you started:
   - [unzip](https://github.com/imjliang/unzip/tree/master): extract files.
   - [sync](https://github.com/imjliang/sync): sync files between two local folders.
   - [Data-Science](https://github.com/jinjin-liang/Data-Science): DS/ML basics.
+  - [Quant-Code](https://github.com/jinjin-liang/QuantCode): quant related.
